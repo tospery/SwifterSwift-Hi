@@ -1,0 +1,46 @@
+PODS:
+  - SwifterSwift-Hi (5.3.0-v1):
+    - SwifterSwift-Hi/AppKit (= 5.3.0-v1)
+    - SwifterSwift-Hi/CoreAnimation (= 5.3.0-v1)
+    - SwifterSwift-Hi/CoreGraphics (= 5.3.0-v1)
+    - SwifterSwift-Hi/CoreLocation (= 5.3.0-v1)
+    - SwifterSwift-Hi/CryptoKit (= 5.3.0-v1)
+    - SwifterSwift-Hi/Dispatch (= 5.3.0-v1)
+    - SwifterSwift-Hi/Foundation (= 5.3.0-v1)
+    - SwifterSwift-Hi/HealthKit (= 5.3.0-v1)
+    - SwifterSwift-Hi/MapKit (= 5.3.0-v1)
+    - SwifterSwift-Hi/SceneKit (= 5.3.0-v1)
+    - SwifterSwift-Hi/SpriteKit (= 5.3.0-v1)
+    - SwifterSwift-Hi/StoreKit (= 5.3.0-v1)
+    - SwifterSwift-Hi/SwiftStdlib (= 5.3.0-v1)
+    - SwifterSwift-Hi/UIKit (= 5.3.0-v1)
+    - SwifterSwift-Hi/WebKit (= 5.3.0-v1)
+  - SwifterSwift-Hi/AppKit (5.3.0-v1)
+  - SwifterSwift-Hi/CoreAnimation (5.3.0-v1)
+  - SwifterSwift-Hi/CoreGraphics (5.3.0-v1)
+  - SwifterSwift-Hi/CoreLocation (5.3.0-v1)
+  - SwifterSwift-Hi/CryptoKit (5.3.0-v1)
+  - SwifterSwift-Hi/Dispatch (5.3.0-v1)
+  - SwifterSwift-Hi/Foundation (5.3.0-v1)
+  - SwifterSwift-Hi/HealthKit (5.3.0-v1)
+  - SwifterSwift-Hi/MapKit (5.3.0-v1)
+  - SwifterSwift-Hi/SceneKit (5.3.0-v1)
+  - SwifterSwift-Hi/SpriteKit (5.3.0-v1)
+  - SwifterSwift-Hi/StoreKit (5.3.0-v1)
+  - SwifterSwift-Hi/SwiftStdlib (5.3.0-v1)
+  - SwifterSwift-Hi/UIKit (5.3.0-v1)
+  - SwifterSwift-Hi/WebKit (5.3.0-v1)
+
+DEPENDENCIES:
+  - SwifterSwift-Hi (from `../`)
+
+EXTERNAL SOURCES:
+  SwifterSwift-Hi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwifterSwift-Hi: ac0c342e431698dce4f54219b1117a32bbf0ddf3
+
+PODFILE CHECKSUM: 7ddef9ae5f02c36a434c1b6110bb0747a5c203c9
+
+COCOAPODS: 1.11.3
